@@ -1,0 +1,189 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>巴巴穿丝</title>
+<style type="text/css">
+<!--
+body,from,h1,h2,ul,li{
+	list-style:none;
+	margin: 0px;
+	padding: 0px;
+	font-size:14px;
+}
+#box {
+	width: 950px;
+	margin:0 auto;
+}
+#banner {
+	background: url() no-repeat;
+	height: 255px;
+}
+#menu a {
+	font-family: "宋体";
+	font-size: 14px;
+	color: #016941;
+	line-height: 40px;
+	font-weight: bold;
+	margin-left: 20px;
+	padding:0 15px;
+	text-decoration: none;
+	display: block;
+	float: left;
+}
+#menu a:hover,a.selected{
+	background-image: url();
+	background-repeat: repeat-x;
+}
+#container{
+	margin:0px;
+	padding:0px;	/* 用背景图片填补#left的空白，又不影响#right */
+	position: relative;
+	background-color: #00CED1;
+	background-repeat: repeat-y;
+	background-image: url();
+	border-top: 1px solid #FDB050;
+}
+#left{
+	position:absolute;
+	top:20px;
+	left:0px;
+	margin:0px;
+	width:260px;
+}
+#middle{
+	position:relative;
+	padding:1px 15px 10px 15px;
+	margin:0px 190px 0px 190px;
+	font-size:13px;
+	background-color: #e9fbff;
+	background-image: url();
+	background-repeat: no-repeat;
+	background-position: right bottom;
+}
+#right{
+	position:absolute;
+	top:0px;
+	right:0px;
+	margin:0px;
+	width:120px;
+	padding:20px 0px 20px 0px;
+	font-size:12px;
+	background-color: #00CED1;
+}
+#left ul{
+	list-style:none;
+	margin:1em 20px 0px 0px;
+	padding:0px 0px 15px 22px;
+}
+#left li{
+	border-bottom:1px dotted #B2BCC6;
+	margin-bottom:0.3em;
+}
+#left a:link, #nav a:visited{
+	text-decoration:none;
+	color:#2A4F6F;
+	background-color:transparent;
+}
+#left a:hover{
+	color:#778899;
+}
+#left h2{
+	font:110% Georgia, "Times New Roman", Times, serif;
+	font-weight:bold;
+	color:#2A4F6F;
+	padding:0px 5px 0px 12px;
+	text-decoration:underline;
+}
+#middle h4{
+	text-decoration:underline;
+	color:#0078aa;
+	padding-top:15px;
+	font-size:16px;
+}
+ 
+#right img{
+	border:1px solid #0073cc;
+	margin-bottom:5px;
+}
+#right p{
+	text-align:center;
+	padding:0px 15px 0px 15px;
+}
+footer {
+	height: 30px;
+	text-align: center;
+	background-color: #298958;
+	line-height: 25px;
+	color: #FFFFFF;
+}
+-->
+</style>
+</head>
+<body>
+<div id="box">
+  <header>
+    <img src="images/banner.gif" width="1000">
+    <nav id="menu">
+		<a href="/-pingzang-.github.io/">首页</a>
+		<a href="/-pingzang-.github.io/xiao.html">魈荧</a>
+		<a href="/-pingzang-.github.io/all.html">all荧</a>
+		<a href="/-pingzang-.github.io/lu.html">鹿荧</a>
+	</nav>
+  </header>  
+</div> 
+  <div id="container">
+	  <div id="left">
+      <h2>分类</h2>
+		  <ul>
+			  <li><a href="/-pingzang-.github.io/">首页</a></li>
+			  <li><a href="/-pingzang-.github.io/xiao.html">魈荧</a></li>
+			  <li><a href="/-pingzang-.github.io/all.html">all荧</a></li>
+			  <li><a href="/-pingzang-.github.io/lu.html">鹿荧</a></li>
+		  </ul>
+   </div>
+	  <div id="middle">
+		  
+	
+		  <h4>魈荧（三）硝烟</h4>
+	
+	
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;风从无月的高山之上，带着凄厉的嗥鸣，吹过十一月未雪的荻花洲，席卷不知疲倦的魔物，冲向黑暗中的两人。嘈杂得听不清楚言语，却又清晰得如此刻骨铭心。
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“魈，我再强调一遍——我不喜欢你。”
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“你所谓我们之间的种种，本就是你自作多情，一厢情愿。”
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“也不必牵涉他人，我不想把话说的这么决绝，但我希望你可以放下你的执念。”
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“……”
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br><br>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;千年以来，业障早已侵蚀他的骨髓，曾经压制的全部戾气在这一刻爆发——这是夜叉最能感知的天命。他会像其他兄姊一般，堕落、疯狂……但他不希望会是这时——他的“爱人”正站在他的面前。他曾说，如有那一天发生，希望她可以祝他一臂之力，杀了失控的夜叉。
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;可如今，魈却是迷茫的，这是他未曾设想的结果。
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;他闭上眼睛，闪烁着鎏金光芒的眸子消失在夜色中。在微光之下，魈身旁的黑色瘴气已经能肉眼分辨。他喜欢荧，他想要将她据为己有，但理智告诉他不可以。
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;可现在呢？他已经失控。他已经放弃了挣扎。他的生命已经到了极限。他感谢帝君赐予他新生。他感谢曾有那么一个人照亮他的心房——即便是假的。从现在起，没人会批判他的所作所为。即便有，也不在乎了。
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br><br>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;他任由业障操纵他的这具——尸体。悲鸣吧……
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br><br>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;铿锵之声是和璞鸢与试作斩岩相碰撞，寒光四射是枪剑之间的摩擦；响彻云霄的乒乓震飞了安息的鸟，迸发的火星引燃了荻花洲点点枯草。枪枪直击要害，剑剑磨砺意志。双方中只要一个稍不留神，胜负则分。然而人类女子，怎敌得过仙人夜叉？荧逐渐体力不支。
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;终于，荧疲惫不已倒在了草地之上。发着青光的枪尖划破了她颈部的皮肤，血顺着锁骨淌下。忽然咣啷一声，和璞鸢被扔在了地上。
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;是——恢复神智了吗？
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;并没有。
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br><br>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“不要！”荧声嘶力竭。魈跪在她身上，撕碎了她沾满鲜血的衣裙。她试图反抗，却被夜叉只手摁住。痉挛与痛苦同时侵蚀着荧的身心。她感到被撕裂，被折磨，想逃，身体却无法做出反应。肩膀上布满夜叉咬下的伤口，血流不止。这种无法躲避的痛苦，岂是一个弱女子能招架的住的？
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;但她绝不能放弃。在眼前怪物弥神之际，她抓起旁边的枪，刺了下去。
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;正中心脏。
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br><br>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br><br>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;一片纯净的风元素力将他们包围，击溃了荧最后的心理防线。 “巴巴托斯大人……求求你了，一定要成功啊……”荧的泪水决堤。“交给我吧。”温迪的声音饱含深沉和温暖。
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;黑色的业障随着躯壳散去，一缕泛着青色微光的烟气汇聚在温迪手中。荧连忙从背包里拿出一具人偶——深青色头发带着一缕蓝色挑染，宁静的眼角带着美好的红色……精致得和原来别无二致。
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;温迪将灵魂汇入人偶体内。“我不能确定他醒来后是否会记得你，但性命应该是保住了。带他回去好好修养吧。”“谢谢巴巴托斯大人……”她仍在哽咽……
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br><br>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;不知过了多久。
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“你醒了？”
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“荧……我做了一个梦……”<br><br><br><br><br><br>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;By 巴巴穿丝
+
+	
+
+
+	  </div>
+	  </ul>
+</body>
+</html>
